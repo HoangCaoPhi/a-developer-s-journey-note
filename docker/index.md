@@ -24,7 +24,7 @@ Docker client giao tiếp với Docker daemon, thực hiện các tác vụ nặ
 
 Client Docker và daemon giao tiếp với nhau qua REST API, thông qua các socket UNIX hoặc một network interface. Docker Compose là một công cụ đi kèm với Docker client, cho phép bạn định nghĩa và chạy các ứng dụng đa container.
 
-![image.png](https://docs.docker.com/get-started/images/docker-architecture.webp)
+![image.png](https://camo.githubusercontent.com/7efc9064ba8e90bd226b31cefc4b9124b8c6c724bc9368ecfc3af7c427afaf28/68747470733a2f2f646f63732e646f636b65722e636f6d2f6765742d737461727465642f696d616765732f646f636b65722d6172636869746563747572652e77656270)
 
 ### Docker daemon
 
