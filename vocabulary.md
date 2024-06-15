@@ -29,3 +29,16 @@ Either way,
 toughest
 
 cutting-edge
+
+reliance 
+
+overwhelming
+
+unified 
+
+untouched
+
+prove 
+
+intentionally 
+
