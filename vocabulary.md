@@ -42,3 +42,10 @@ prove
 
 intentionally 
 
+patches 
+
+mitigation 
+
+footprint 
+
+outcomes 
