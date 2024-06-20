@@ -51,6 +51,7 @@ footprint
 outcomes 
 
 sudden surge
+contraction 
 
 walkthrough 
 
@@ -93,3 +94,28 @@ regulatory
 remediate 
 
 pertain 
+siloed 
+
+multidisciplinary 
+
+assumption 
+
+roughly 
+
+Strive 
+
+factual
+
+indifferent: trung lập
+
+Hardening 
+
+acceleration 
+
+ongoing 
+
+ever-changing
+
+intended 
+
+hypothesis 
