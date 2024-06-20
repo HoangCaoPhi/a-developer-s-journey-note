@@ -52,3 +52,44 @@ outcomes
 
 sudden surge
 
+walkthrough 
+
+orchestration 
+
+In order to
+
+allowances
+
+compliant 
+
+anticipated 
+
+investigate 
+
+monetary 
+
+quota 
+
+criteria
+
+confidential
+
+enforcement 
+
+participate 
+
+certain 
+
+incurring 
+
+unified 
+
+lineage
+
+comprise 
+
+regulatory 
+
+remediate 
+
+pertain 
