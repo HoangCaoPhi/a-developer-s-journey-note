@@ -119,3 +119,6 @@ ever-changing
 intended 
 
 hypothesis 
+Self-healing
+overhead 
+abbreviated enact nonterminating underlying 
