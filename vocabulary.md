@@ -121,4 +121,11 @@ intended
 hypothesis 
 Self-healing
 overhead 
-abbreviated enact nonterminating underlying 
+abbreviated enact nonterminating underlying unprecedented
+
+mind-shift
+
+culture-shift 
+
+rigid rules
+
