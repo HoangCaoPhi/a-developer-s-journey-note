@@ -129,3 +129,4 @@ culture-shift
 
 rigid rules
 
+canonical : kinh điển
